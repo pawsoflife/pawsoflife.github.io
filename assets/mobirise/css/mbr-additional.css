@@ -1382,14 +1382,12 @@ body {
   }
 }
 .cid-rhHgfjBbJf {
-  padding-top: 90px;
-  padding-bottom: 90px;
   background-image: url("../../../assets/images/cat-looking-at-you-2000x1333.jpg");
 }
 .cid-rhHktblvfz {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 .cid-rhHktblvfz .card-box {
   padding: 0 2rem;
@@ -1433,7 +1431,7 @@ body {
 }
 .cid-rhHl8WcErl .mbr-iconfont-social {
   font-size: 32px;
-  color: #ff3366;
+  color: #149dcc;
 }
 .cid-rhHl8WcErl .social-list a:focus {
   text-decoration: none;
